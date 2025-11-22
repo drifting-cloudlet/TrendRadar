@@ -3,9 +3,6 @@
 HarmonyOS
 任正非
 
-大疆
-DJI
-
 智元
 灵犀
 稚晖君
@@ -36,9 +33,6 @@ bytedance
 特斯拉
 马斯克
 
-微软
-Microsoft
-
 英伟达
 NVIDIA
 黄仁勋
@@ -57,11 +51,6 @@ sora
 claude
 Anthropic
 
-iphone
-ipad
-mac
-ios
-
 ai
 !gai
 人工智能
@@ -69,13 +58,6 @@ ai
 自动驾驶
 
 机器人
-
-国产
-中国
-
-美国
-日本
-韩国
 
 芯片
 光刻机
